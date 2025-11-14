@@ -73,6 +73,10 @@ p {
 .published-date{
     color: var(--Gray-950);
 }
+.title{
+    transition: 1s ease-in-out;
+    cursor: pointer;
+}
 .title:hover{
     color: var(--Yellow);
 }
